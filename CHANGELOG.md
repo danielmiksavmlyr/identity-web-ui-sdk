@@ -7,6 +7,19 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.28.2] - 2024-06-10
+
+- Update docs
+
+## [1.28.1] - 2024-06-10
+
+- Fix configuration and update versions of packages
+
+## [1.28.0] - 2024-06-10
+
+- Update React version to 18
+- Switch to GitHub actions
+
 ## [1.27.0] - 2024-05-16
 
 ## Added

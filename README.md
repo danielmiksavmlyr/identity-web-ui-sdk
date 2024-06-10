@@ -1,13 +1,15 @@
-[![CircleCI](https://circleci.com/gh/ReachFive/identity-web-ui-sdk/tree/master.svg?style=svg)](https://circleci.com/gh/ReachFive/identity-web-ui-sdk/tree/master) [![npm](https://img.shields.io/npm/v/@reachfive/identity-ui.svg?color=blue)](https://www.npmjs.com/package/@reachfive/identity-ui)
+[![npm](https://img.shields.io/npm/v/@danielmiksavml/reachfive-identity-ui?color=blue)](https://www.npmjs.com/package/@danielmiksavml/reachfive-identity-ui)
 
 # ReachFive Identity Web UI SDK
+
+This is forked version of official [@reachfive/identity-ui package](https://www.npmjs.com/package/@reachfive/identity-ui). It has been created to upgrade dependencies and make it compatible with the latest version of React (v18.3).
 
 ## Installation
 
 The following command installs the Identity Web UI SDK as a Node.js dependency:
 
 ```sh
-npm install --save @reachfive/identity-ui
+npm i -S @danielmiksavml/reachfive-identity-ui
 ```
 
 ## Documentation

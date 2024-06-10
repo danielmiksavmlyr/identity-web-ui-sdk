@@ -1,5 +1,9 @@
 # Publication guide
 
+This fork relies on GitHub actions for simplicity. In order to publish new version you need to follow original instruction but doesn't expect that CircleCi pipeline will be executed (since it is not confugured). Instead, at the end, when you already create Release on GitHub, you can go to https://github.com/danielmiksavmlyr/identity-web-ui-sdk/actions and see if pipeline passes and if new version of package is published to the npm registry.
+
+## Original repository flow
+
 1. Start a new release branch.
 
     ```sh
