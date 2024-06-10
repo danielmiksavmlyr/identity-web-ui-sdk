@@ -5,7 +5,7 @@
     "author": "ReachFive",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ReachFive/identity-web-ui-sdk"
+        "url": "https://github.com/danielmiksavmlyr/identity-web-ui-sdk"
     },
     "license": "MIT",
     "type": "module",
