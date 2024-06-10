@@ -86,6 +86,7 @@ interface Option {
 
 interface SelectProps extends React.SelectHTMLAttributes<HTMLSelectElement> {
     hasError?: boolean
+    placeholder?: string
     options: Option[]
 }
 
